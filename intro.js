@@ -1,6 +1,3 @@
-// profile.js
-// Simple script that logs basic profile info to the console.
-
 const profile = {
   name: "Nana",
   age: 25, // change this to your actual age
